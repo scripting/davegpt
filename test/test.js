@@ -1,6 +1,6 @@
 const fs = require ("fs");
 const daveutils = require ("daveutils");
-const davegpt = require ("../davegpt.js");
+const davegpt = require ("davegpt");
 
 var myChatGpt;
 
