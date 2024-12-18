@@ -1,0 +1,19 @@
+{
+	"name": "davegpt",
+	"description": "Node and browser-based JavaScript code that communicates with OpenAI.",
+	"author": "Dave Winer <dave@scripting.com>",
+	"version": "0.4.0",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/scripting/davegpt.git"
+		},
+	"files": [
+		"davegpt.js"
+		],
+	"main": "davegpt.js",
+	"dependencies" : {
+		"request": "*",
+		"daveutils": "*"
+		} 
+	}
